@@ -1,9 +1,10 @@
-package netcracker.eliseeva.figure;
+package eliseeva.figure;
 
-import netcracker.eliseeva.figure.Shape;
+import eliseeva.annotation.Star;
 
 public class Square extends Shape {
     @Override
+    @Star
     public void draw() {
         System.out.println("square");
     }

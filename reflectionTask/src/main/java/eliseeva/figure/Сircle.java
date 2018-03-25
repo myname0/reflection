@@ -1,6 +1,4 @@
-package netcracker.eliseeva.figure;
-
-import netcracker.eliseeva.figure.Shape;
+package eliseeva.figure;
 
 public class Сircle extends Shape {
     @Override

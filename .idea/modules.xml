@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/reflection.iml" filepath="$PROJECT_DIR$/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOTask/IOTask.iml" filepath="$PROJECT_DIR$/IOTask/IOTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework.iml" filepath="$PROJECT_DIR$/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectionTask/reflectionTask.iml" filepath="$PROJECT_DIR$/reflectionTask/reflectionTask.iml" />
     </modules>
   </component>
 </project>
