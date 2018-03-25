@@ -15,6 +15,7 @@ public class App {
             while ((line = bufferedReader.readLine()) != null) {
                 text.append(line);
             }
+            bufferedReader.close();
 
             BASE64Decoder decoder = new BASE64Decoder();
             byte[] arr = decoder.decodeBuffer(text.toString());
